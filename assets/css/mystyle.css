@@ -1,0 +1,31 @@
+.mih2 {
+  font-family: "Great Vibes", cursive;
+  padding: 20px 0px 0px 0px;
+  font-size: 4em;
+}
+.img1 {
+  max-width: 800px;
+  min-width: 350px;
+}
+@media (max-width: 300px) {
+  .img1 {
+    max-width: 220px;
+    min-width: 150px;
+  }
+}
+@media (max-width: 767.98px) {
+  .img1 {
+    max-width: 620px;
+    min-width: 150px;
+  }
+}
+.pie {
+  background-color: red;
+}
+#footer ul.copyright li {
+  color: #3d4c56;
+}
+#footer ul.copyright li a {
+  color: #3d4c56;
+  text-decoration: none;
+}
